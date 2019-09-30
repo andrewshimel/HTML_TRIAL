@@ -1,0 +1,12 @@
+/*Why can css only use block comments*/
+body {
+    background-color: black;
+}
+/*This is obnoxious*/
+.colorYellow {
+    color: yellow;
+}
+/*I have to keep closing these blocks*/
+.colorRed{
+    color: red;
+}
